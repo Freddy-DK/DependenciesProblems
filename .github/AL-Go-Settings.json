@@ -6,5 +6,6 @@
   "DoNotPublishApps": true,
   "UseCompilerFolder": true,
   "runs-on": "ubuntu-latest",
-  "githubRunner": "ubuntu-latest"
+  "githubRunner": "ubuntu-latest",
+  "templateSha": "2b0291277622df06df2856bc05768be2ebb5a6b5"
 }
