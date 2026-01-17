@@ -1,11 +1,11 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v8.1/.Modules/settings.schema.json",
+  "$schema": "https://raw.githubusercontent.com/freddydk/AL-Go/main/Actions/.Modules/settings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
+  "templateUrl": "https://github.com/freddydk/AL-Go@main",
   "UseProjectDependencies": true,
   "DoNotPublishApps": true,
   "UseCompilerFolder": true,
   "runs-on": "ubuntu-latest",
   "githubRunner": "ubuntu-latest",
-  "templateSha": "2b0291277622df06df2856bc05768be2ebb5a6b5"
+  "templateSha": "7686718c7adb64beb47948c4ae5d320a41739128"
 }
